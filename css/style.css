@@ -13,18 +13,18 @@
 
 /* HEADER */
 header {
-    height: 500px;
+    height: 600px;
+    margin-bottom: 60px;
 }
 .title {
     background-color: #e579e6;
-    height: 19%;
-    margin-bottom: 1%;
+    height: 18%;
+    margin-bottom: 4%;
 }
 
 .img-title {
     background-color: #e1d67a;
-    height: 79%;
-    margin-bottom: 1%;
+    height: 80%;
 }
 
 /* MAIN */
@@ -35,17 +35,20 @@ header {
 }
 
 .main-container{
-    height: 600px;
     background-color: #0286fc;   
+    margin-bottom: 15px;
+    padding-bottom: 15px;
 }
 
 .riga {
-    height: 20%;
-    background-color: #abcfe7; 
+    height: 100px;
+    background-color: #abcfe7;
+    margin-bottom: 15px;
 }
 
 .col-container {
-    height: 80%;   
+    height: 600px;
+    margin-bottom: 15px;  
 }
    
 .col {
@@ -56,17 +59,17 @@ header {
 
 
 .widget {
-    width: 32%;
+    width: 23%;
 }
 
 .central {
-    width: 32%;
+    width: 50%;
     margin-left: 2%;
     margin-right: 2%;
 }
 
 .links {
-    width: 32%;
+    width: 23%;
 }
 
 
